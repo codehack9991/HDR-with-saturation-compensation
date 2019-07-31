@@ -11,14 +11,14 @@ We also have provided sample test images in the images folder.
 The resulting images of these sample images is also provided.
 
 ## Sample Output
-<img src="https://github.com/codehack9991/HDR-with-saturation-compensation/blob/master/test%20images/girl.jpg" width="250" height="200" > <img src="https://github.com/codehack9991/HDR-with-saturation-compensation/blob/master/Result/girl_ILP_Modified_Matlab_Figure_2.jpg" width="250" height="200">
+<img src="https://github.com/codehack9991/HDR-with-saturation-compensation/blob/master/test%20images/girl.jpg" width="250" height="200" alt="LDR" align=center /> <img src="https://github.com/codehack9991/HDR-with-saturation-compensation/blob/master/Result/girl_ILP_Modified_Matlab_Figure_2.jpg" width="250" height="200" alt="HDR (Our Code)" align=center />
 
 
 
 
 
 
-<img src="https://github.com/codehack9991/HDR-with-saturation-compensation/blob/master/test%20images/8.jpg" width="250" height="200"><img src="https://github.com/codehack9991/HDR-with-saturation-compensation/blob/master/Result/8_ILP_Modified_Matlab_Figure.jpg" width="250" height="200"> 
+<img src="https://github.com/codehack9991/HDR-with-saturation-compensation/blob/master/test%20images/8.jpg" width="250" height="200" alt="LDR" align=center /><img src="https://github.com/codehack9991/HDR-with-saturation-compensation/blob/master/Result/8_ILP_Modified_Matlab_Figure.jpg" width="250" height="200" alt="HDR (Our Code)" align=center /> 
 
 ## GUI End to End prototype for Users
 
